@@ -1,9 +1,9 @@
 <?php
 
 $hostname = "localhost";
-$db_name = "db_a12345";
-$db_user = "a12345";
-$db_passwd = "PASS";
+$db_name = "db_a71372";
+$db_user = "a71372";
+$db_passwd = "d44e82";
 
 error_reporting(0); 
 mysqli_report(MYSQLI_REPORT_OFF);
